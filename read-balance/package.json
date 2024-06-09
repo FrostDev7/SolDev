@@ -1,0 +1,19 @@
+{
+  "name": "read-balance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@bonfida/spl-name-service": "^2.5.2",
+    "@solana/spl-name-service": "^0.2.1",
+    "@solana/web3.js": "^1.92.3",
+    "esrun": "^3.2.26",
+    "typescript": "^5.4.5"
+  }
+}
